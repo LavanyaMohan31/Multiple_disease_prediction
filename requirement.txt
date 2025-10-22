@@ -1,0 +1,14 @@
+openpyxl
+opencv-python
+category_encoders
+pandas
+imblearn
+numpy
+scipy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
+psycopg2
+streamlit
